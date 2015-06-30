@@ -1,0 +1,15 @@
+.title h1 {
+  text-align: center;
+  background-color: #660033;
+  color: #000000;
+  width: 75%;
+  margin: 0 auto;
+}
+
+body {
+  background-image: ur1("http://www.majestymaps.com/wp-content/uploads/2014/01/1863_world_map-25001.jpg");
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  opacity: 0.2;
+}
+
